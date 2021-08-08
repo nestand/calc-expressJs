@@ -1,0 +1,22 @@
+{
+  "name": "calcjs",
+  "version": "1.0.0",
+  "description": "first calculator with node.js express",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestand/calc-expressJs.git"
+  },
+  "author": "Andrey Nesterov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestand/calc-expressJs/issues"
+  },
+  "homepage": "https://github.com/nestand/calc-expressJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
